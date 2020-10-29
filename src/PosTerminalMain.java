@@ -8,6 +8,9 @@ public class PosTerminalMain {
 		
 		//store products in a text file, 12 items minimum.
 		
+		//Project includes at least 3 classes; classes interact meaningfully. Methods are short and modular
+		// 1 main class, 2 product class, <-- 3 child class to product class
+		
 		// Main:
 		//present menu, let user choose item (by number or letter) and quantity. display line total (item price * quantity)
 		//Either through the menu or a separate question, allow them to re-display the menu and to complete the purchase
@@ -25,8 +28,7 @@ public class PosTerminalMain {
 		//Main menu Method;
 		//Return to the original menu for a new order. (Hint: you’ll want an array or ArrayList to keep track of what’s been ordered!)
 		
-		//Project includes at least 3 classes; classes interact meaningfully. Methods are short and modular
-		// 1 main class, 2 product class, <-- 3 child class to product class
+		
 		
 
 
